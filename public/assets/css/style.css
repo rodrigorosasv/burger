@@ -1,0 +1,22 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: white;
+  list-style: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+img{
+  width: 300px;
+}
